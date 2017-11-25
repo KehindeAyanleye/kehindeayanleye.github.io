@@ -106,7 +106,7 @@ ul li {
 }
 #header .header-content {
 	margin: 0 auto;
-	padding: 60px 10%;
+	padding: 60px 6%;
 	width: 100%;
 	-moz-transition: padding 0.3s;
 	-o-transition: padding 0.3s;
@@ -115,6 +115,7 @@ ul li {
 }
 #header .logo {
 	float: left;
+	width: 50px;
 }
 #header.fixed {
 	background-color: rgba(255, 255, 255, 1);
@@ -144,6 +145,7 @@ ul li {
 	color: rgba(0, 0, 0, 1);
 	font-size: 16px;
 	margin-left: 40px;
+	margin-right: 10px;
 	letter-spacing: -1px;
 }
 .navigation a:hover, .navigation a.active {
