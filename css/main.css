@@ -32,7 +32,7 @@ h3 {
 h4 {
 	font-size: 22px;
 	color: #2d3033;
-	font-weight: 400;
+	font-weight: bold;
 }
 h5 {
 	font-size: 14px;
@@ -63,6 +63,7 @@ h5 {
 -------------------------------------------------------------------------------*/
 a {
 	color: #e84545;
+	font-weight: bold;
 }
 a:hover, a:focus {
 	text-decoration: none;
